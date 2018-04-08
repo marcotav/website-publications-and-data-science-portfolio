@@ -1,4 +1,4 @@
-Publications
+# Publications
 _____________
 
 ## Research Summary
