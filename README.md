@@ -37,8 +37,8 @@ My long term goal was to help establishing such unified framework, with the aim 
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/marcotav/painter-identifier/blob/master/paintings_readme.jpg" 
-       width="600" height="200">
+  <img src="https://github.com/marcotav/Publications/blob/master/fidelitydecayRM.png" 
+       width="650" height="400">
 </p>
 <br>
 
