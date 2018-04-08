@@ -28,7 +28,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 
 8. M. Tavora, E.J.T. Herrera, L.F. Santos, **Powerlaw Decay Exponents: a Dynamical Criterion for Predicting Thermalization**, Physical Review A 95, 013604, 2016
 
-9. 
+9. E.J.T. Herrera, M. Tavora, L.F. Santos, **Survival Probability of the Neel State in Clean and Disordered Systems: An Overview (invitation for special issue)**, Brazilian Journal of Physics 46, Issue 3, 2016
 
 10. 
 
