@@ -1,15 +1,15 @@
 # Publications
-______
+
 
 ## Research Summary
-_____
+
 
 My physics academic research was focused in many-body quantum systems out of equilibrium. These systems are characterized by a variety of novel phenomena, which are absent in equilibrium systems. This area has recently become the subject of intensive research, boosted in part by enormous progress in experimental techniques. However, in contrast to the equilibrium case, some of the most fundamental questions, such as whether the system attains a long-term stationary state, how this state is attained, and what is the nature of such a state have been answered only for a limited number of cases. Furthermore, since there are several "pathways" in which a system can be taken out of equilibrium, a plethora of different techniques are used to approach specific problems.
 
 My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems
 
 ## Journal Articles
-_____
+
 
 
 1. M. Tavora and A. Mitra, **Quench dynamics of one-dimensional bosons in a commensurate periodic potential: A quantum kinetic equation approach**, Physical Review B 88, 115144, 2013
