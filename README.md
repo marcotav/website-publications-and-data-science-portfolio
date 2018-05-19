@@ -1,4 +1,4 @@
-## Summary of Projects, Website and Original Scientific Research
+## Summary of Data Science Projects, Personal Website and Publications
 
 ### Personal Website
 
@@ -6,7 +6,7 @@ My personal website:
 
 www.marcotavora.me
 
-## Publications
+### Publications
 
 
 ### Original Research Summary
@@ -51,7 +51,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 <br>
 
 
-## [Recents Projects](https://marcotavora.me/data-science-projects/)
+### [Recents Projects](https://marcotavora.me/data-science-projects/)
 
 This is a list of links to projects I've completed recently:
 
