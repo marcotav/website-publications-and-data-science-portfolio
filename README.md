@@ -1,9 +1,9 @@
-## Summary of Data Science Projects, Personal Website and Publications
+## Data Science Projects, Personal Website and Scientific Publications
 
 ## Index
 
 * [personal-website](#personal-website)
-* [original-research-summary](#original-research-summary)
+* [original-physics-research-summary](#original-physics-research-summary)
 * [articles](#articles)
 * [recents-data-science-projects](#recents-data-science-projects)
 
@@ -17,7 +17,7 @@ www.marcotavora.me
 ### [publications](https://marcotavora.me/scientpublic/)
 
 
-### [original-research-summary](https://marcotavora.me/physres/)
+### [original-physics-research-summary](https://marcotavora.me/physres/)
 
 
 My physics academic research was focused in many-body quantum systems out of equilibrium. These systems are characterized by a variety of novel phenomena, which are absent in equilibrium systems. This area has recently become the subject of intensive research, boosted in part by enormous progress in experimental techniques. However, in contrast to the equilibrium case, some of the most fundamental questions, such as whether the system attains a long-term stationary state, how this state is attained, and what is the nature of such a state have been answered only for a limited number of cases. Furthermore, since there are several "pathways" in which a system can be taken out of equilibrium, a plethora of different techniques are used to approach specific problems.
