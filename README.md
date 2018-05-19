@@ -3,7 +3,6 @@
 ## Index
 
 * [personal-website](#personal-website)
-* [publications](#publications)
 * [original-research-summary](#original-research-summary)
 * [articles](#articles)
 * [recents-projects](#recents-projects)
