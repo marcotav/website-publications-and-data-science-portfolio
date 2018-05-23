@@ -16,9 +16,9 @@ www.marcotavora.me
 
 ### [publications](https://marcotavora.me/scientpublic/)
 
+[This](https://marcotavora.me/scientpublic/) is a selection of my published works. For the full list you can check my [Google Scholar profile](https://scholar.google.com/citations?user=SaB1GO0AAAAJ&hl=en)
 
 ### [original-physics-research-summary](https://marcotavora.me/physres/)
-
 
 My physics academic research was focused in many-body quantum systems out of equilibrium. These systems are characterized by a variety of novel phenomena, which are absent in equilibrium systems. This area has recently become the subject of intensive research, boosted in part by enormous progress in experimental techniques. However, in contrast to the equilibrium case, some of the most fundamental questions, such as whether the system attains a long-term stationary state, how this state is attained, and what is the nature of such a state have been answered only for a limited number of cases. Furthermore, since there are several "pathways" in which a system can be taken out of equilibrium, a plethora of different techniques are used to approach specific problems.
 
@@ -52,7 +52,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 <br>
 <p align="center">
   <img src="https://github.com/marcotav/Publications/blob/master/fidelitydecayRM.png" 
-       width="650" height="400">
+       width="650">
 </p>
 <br>
 
