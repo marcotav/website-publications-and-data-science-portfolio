@@ -57,7 +57,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 <br>
 
 
-### [recents-data-science-projects](https://marcotavora.me/data-science-projects/)
+### [recent-data-science-projects](https://marcotavora.me/data-science-projects/)
 
 This is a list of links to projects I've completed recently:
 
