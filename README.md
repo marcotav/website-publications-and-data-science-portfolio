@@ -5,7 +5,7 @@
 * [personal-website](#personal-website)
 * [original-physics-research-summary](#original-physics-research-summary)
 * [machine-learning-articles](#data-science-articles)
-* [physics articles](#physics-articles)
+* [peer reviewed journals physics articles](#peer-reviewed-journals-physics-articles)
 * [recents-data-science-projects](#recents-data-science-projects)
 
 
@@ -31,7 +31,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 2. Connections between Deep Learning, Physics, and Pure Math - Part I [(link)](https://medium.com/@marcotav65/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
 
 
-### [physics articles](https://marcotavora.me/scientpublic/)
+### [peer reviewed journals physics articles](https://marcotavora.me/scientpublic/)
 
 1. M. Tavora and A. Mitra, **Quench dynamics of one-dimensional bosons in a commensurate periodic potential: A quantum kinetic equation approach**, Physical Review B 88, 115144, 2013
 
