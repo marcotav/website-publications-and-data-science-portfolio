@@ -4,7 +4,7 @@
 
 * [personal-website](#personal-website)
 * [original-physics-research-summary](#original-physics-research-summary)
-* [data-science-articles](#data-science-articles)
+* [machine-learning-articles](#data-science-articles)
 * [physics articles](#physics-articles)
 * [recents-data-science-projects](#recents-data-science-projects)
 
@@ -23,14 +23,12 @@ www.marcotavora.me
 
 My physics academic research was focused in many-body quantum systems out of equilibrium. These systems are characterized by a variety of novel phenomena, which are absent in equilibrium systems. This area has recently become the subject of intensive research, boosted in part by enormous progress in experimental techniques. However, in contrast to the equilibrium case, some of the most fundamental questions, such as whether the system attains a long-term stationary state, how this state is attained, and what is the nature of such a state have been answered only for a limited number of cases. Furthermore, since there are several "pathways" in which a system can be taken out of equilibrium, a plethora of different techniques are used to approach specific problems.
 
-My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems
+My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems.
 
-### data-science-articles
+### [machine-learning-articles](https://medium.com/@marcotav65)
 
 1. [The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
 2. [Connections between Deep Learning, Physics, and Pure Math - Part I](https://medium.com/@marcotav65/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
-
-
 
 
 ### [physics articles](https://marcotavora.me/scientpublic/)
