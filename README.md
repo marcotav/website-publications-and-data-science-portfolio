@@ -25,7 +25,7 @@ My physics academic research was focused in many-body quantum systems out of equ
 
 My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems
 
-### [data-science-articles]
+### data-science-articles
 
 1. [The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
 2. [Connections between Deep Learning, Physics, and Pure Math - Part I](https://medium.com/@marcotav65/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
