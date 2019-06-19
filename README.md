@@ -1,5 +1,6 @@
 # Data Science Projects, Personal Website and Scientific Publications
 
+
 ## Index
 
 * [Personal Website](#personal-website)
@@ -8,13 +9,16 @@
 * [Peer Reviewed Journals Physics Articles](#peer-reviewed-journals-physics-articles)
 * [Recents Data Science Projects](#recents-data-science-projects)
 
+
 ## Personal Website
 
 www.marcotavora.me
 
+
 ## Publications
 
 [This](https://marcotavora.me/scientpublic/) is a selection of my published works. For the full list you can check my [Google Scholar profile](https://scholar.google.com/citations?user=SaB1GO0AAAAJ&hl=en).
+
 
 ## [Original Physics Research Summary](https://marcotavora.me/physres/)
 
@@ -22,10 +26,12 @@ My physics academic research was focused in many-body quantum systems out of equ
 
 My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems.
 
+
 ## [Machine Learning Articles](https://medium.com/@marcotav65)
 
 1. The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science) [(link)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
 2. Connections between Deep Learning, Physics, and Pure Math - Part I [(link)](https://medium.com/@marcotav65/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
+
 
 ## [Peer Reviewed Journals Physics Articles](https://marcotavora.me/scientpublic/)
 
@@ -52,12 +58,10 @@ My long term goal was to help establishing such unified framework, with the aim 
 11. M. Schiulaz, M. Tavora, L. F. Santos, **From few- to many-body quantum systems**, Quantum Science and Technology, Volume 3, Number 4, 2018
 
 <br>
-<br>
 <p align="center">
   <img src="https://github.com/marcotav/Publications/blob/master/fidelitydecayRM.png"
        width="650">
 </p>
-<br>
 
 ## [Recent Data Science Projects](https://marcotavora.me/data-science-projects/)
 
