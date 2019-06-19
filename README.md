@@ -8,26 +8,26 @@
 * [Peer Reviewed Journals Physics Articles](#peer-reviewed-journals-physics-articles)
 * [Recents Data Science Projects](#recents-data-science-projects)
 
-### Personal Website
+## Personal Website
 
 www.marcotavora.me
 
-### [Publications](https://marcotavora.me/scientpublic/)
+## Publications
 
 [This](https://marcotavora.me/scientpublic/) is a selection of my published works. For the full list you can check my [Google Scholar profile](https://scholar.google.com/citations?user=SaB1GO0AAAAJ&hl=en).
 
-### [Original Physics Research Summary](https://marcotavora.me/physres/)
+## [Original Physics Research Summary](https://marcotavora.me/physres/)
 
 My physics academic research was focused in many-body quantum systems out of equilibrium. These systems are characterized by a variety of novel phenomena, which are absent in equilibrium systems. This area has recently become the subject of intensive research, boosted in part by enormous progress in experimental techniques. However, in contrast to the equilibrium case, some of the most fundamental questions, such as whether the system attains a long-term stationary state, how this state is attained, and what is the nature of such a state have been answered only for a limited number of cases. Furthermore, since there are several "pathways" in which a system can be taken out of equilibrium, a plethora of different techniques are used to approach specific problems.
 
 My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems.
 
-### [Machine Learning Articles](https://medium.com/@marcotav65)
+## [Machine Learning Articles](https://medium.com/@marcotav65)
 
 1. The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science) [(link)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
 2. Connections between Deep Learning, Physics, and Pure Math - Part I [(link)](https://medium.com/@marcotav65/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
 
-### [Peer Reviewed Journals Physics Articles](https://marcotavora.me/scientpublic/)
+## [Peer Reviewed Journals Physics Articles](https://marcotavora.me/scientpublic/)
 
 1. M. Tavora and A. Mitra, **Quench dynamics of one-dimensional bosons in a commensurate periodic potential: A quantum kinetic equation approach**, Physical Review B 88, 115144, 2013
 
@@ -59,7 +59,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 </p>
 <br>
 
-### [Recent Data Science Projects](https://marcotavora.me/data-science-projects/)
+## [Recent Data Science Projects](https://marcotavora.me/data-science-projects/)
 
 This is a list of links to projects I've completed recently:
 
