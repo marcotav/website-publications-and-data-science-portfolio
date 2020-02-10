@@ -29,8 +29,19 @@ My long term goal was to help establishing such unified framework, with the aim 
 
 1. The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science) [(link)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
 2. Connections between Neural Networks and Pure Mathematics (freeCodeCamp.org) [(link)](https://medium.com/free-code-camp/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
+3. Machine Learning and Particle Motion in Liquids: An Elegant Link (Towards Data Science) [(link)](https://towardsdatascience.com/machine-learning-and-particle-motion-in-liquids-an-elegant-link-4e7c1611c945)
+4. Neural Quantum States (Towards Data Science) [(link)](https://towardsdatascience.com/neural-quantum-states-4793fdf67b13)
+5. Deep Learning Explainability: Hints from Physics (Towards Data Science) [(link)](https://towardsdatascience.com/deep-learning-explainability-hints-from-physics-2f316dc07727)
 
+### [finance-articles](https://medium.com/@marcotav65)
 
+1. How the Mathematics of Fractals Can Help Predict Stock Markets Shifts (Towards Data Science) [(link)](https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574)
+
+### [fundamental-physics-online-articles](https://medium.com/@marcotav65)
+
+1. The Mysterious Connection Between Cyclic Imaginary Time and Temperature (Towards Data Science) [(link)](https://towardsdatascience.com/the-mysterious-connection-between-cyclic-imaginary-time-and-temperature-c8fb241628d9)
+2. Quantum Gravity, Timelessness and Complex Numbers (Towards Data Science) [(link)](https://towardsdatascience.com/quantum-gravity-timelessness-and-complex-numbers-855b403e0c2f)
+3. Quantum Gravity In One Dimension (Towards Data Science) [(link)](https://towardsdatascience.com/quantum-gravity-in-one-dimension-456dc83c59f9)
 
 ### [peer reviewed journals physics articles](https://marcotavora.me/scientpublic/)
 
