@@ -28,7 +28,8 @@ My long term goal was to help establishing such unified framework, with the aim 
 ### [machine-learning-articles](https://medium.com/@marcotav65)
 
 1. The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science) [(link)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
-2. Connections between Neural Networks and Pure Mathematics [(link)](https://medium.com/free-code-camp/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
+2. Connections between Neural Networks and Pure Mathematics (freeCodeCamp.org) [(link)](https://medium.com/free-code-camp/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
+
 
 
 ### [peer reviewed journals physics articles](https://marcotavora.me/scientpublic/)
