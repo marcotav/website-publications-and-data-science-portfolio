@@ -63,9 +63,7 @@ My long term goal was to help establishing such unified framework, with the aim 
 
 9. E.J.T. Herrera, M. Tavora, L.F. Santos, **Survival Probability of the Neel State in Clean and Disordered Systems: An Overview (invitation for special issue)**, Brazilian Journal of Physics 46, Issue 3, 2016
 
-10. M. Schiulaz, M. Tavora, L. F. Santos, **From few- to many-body quantum systems**, available as preprint at arxiv.org/abs/1802.08691v1, 2016
-
-11. M. Schiulaz, M. Tavora, L. F. Santos, **From few- to many-body quantum systems**, Quantum Science and Technology, Volume 3, Number 4, 2018
+10. M. Schiulaz, M. Tavora, L. F. Santos, **From few- to many-body quantum systems**, Quantum Science and Technology, Volume 3, Number 4, 2018
 
 
 <br>
