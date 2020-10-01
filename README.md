@@ -9,13 +9,13 @@
 * [recents-data-science-projects](#recents-data-science-projects)
 
 
-### [personal-website](www.marcotavora.me)
+### [Personal-website](www.marcotavora.me)
 
-My personal website:
+My Personal Website:
 
 www.marcotavora.me
 
-### [publications](https://marcotavora.me/scientpublic/)
+### [Publications](https://marcotavora.me/scientpublic/)
 
 [This](https://marcotavora.me/scientpublic/) is a selection of my published works. For the full list you can check my [Google Scholar profile](https://scholar.google.com/citations?user=SaB1GO0AAAAJ&hl=en)
 
@@ -25,7 +25,7 @@ My physics academic research was focused in many-body quantum systems out of equ
 
 My long term goal was to help establishing such unified framework, with the aim to provide a more systematic way to describe and classify those kinds of systems.
 
-### [machine-learning-articles](https://medium.com/@marcotav65)
+### [Machine-learning-articles](https://medium.com/@marcotav65)
 
 1. The Approximation Power of Neural Networks (with Python codes). Why neural networks can predict the outcomes of (almost) any process (Towards Data Science) [(link)](https://towardsdatascience.com/the-approximation-power-of-neural-networks-with-python-codes-ddfc250bdb58)
 2. Connections between Neural Networks and Pure Mathematics (freeCodeCamp.org) [(link)](https://medium.com/free-code-camp/connections-between-deep-learning-physics-and-pure-mathematics-part-i-947abeb3a5dd)
